@@ -83,6 +83,9 @@ CLIENT
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6952fc03-9487-4104-9971-49b3dce678cd" />
 
 
+
+
+
 SERVER
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/792b9eb9-fbc0-41a8-b0d0-4a771cb51d78" />
 
